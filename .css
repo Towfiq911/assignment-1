@@ -1,4 +1,192 @@
-style{
-    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+ .header{
+    background: rgba(229, 84, 115, 0.10);
+    
 }
+
+.banner-greeting{
+    width: 708px;
+    color: #272727;
+   font-family: Lato;
+         font-size: 80px;
+           font-style: normal;
+                 font-weight: 800;
+                     line-height: normal;
+
+ }
+
+ .banner-pragraph{
+    width: 634px;
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+ 
+
+ }
+ .button{
+    display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+ }
+
+
+
+ .banner{
+    
+    padding:  30 px 20px 30px 150px;
+    display: flex;
+     align-items: center;
+    justify-content: space-between;
+    margin-top: 92px;
+    margin-left: 179px;
+    margin-right: 1033px;
+    margin-bottom: 470;
+    max-width: 1140px;
+    margin: 0 auto;
    
+ }
+.banner .banner-photo{
+    width: 635px;
+    height: 800px;
+    flex-shrink: 0;
+}
+
+
+
+.banner .banner-greeting{
+    color: #272727;
+font-size: 80px;
+ font-weight: 800;
+ 
+}
+.banner-pragraph{
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+ .banner-box{
+   max width: 500px;
+
+ }
+ 
+ /* Main section styles */
+
+ /* About section style */
+
+ 
+
+ .Hot-deals{
+     display: flex;
+     margin-top: 230px;
+     margin-bottom:342px;
+     margin-left: 410px;
+      margin-right: 950px;
+      align-items: center;
+      justify-content: space-between;
+      border-radius: 8px;
+       background: rgba(229, 84, 115, 0.05);
+       max-width: 1140px;
+       margin: 0 auto;
+ 
+ }
+       
+
+
+
+ 
+ .hot-greeting{
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+ 
+ }
+ 
+ .Hot-deals-photo{
+    margin-top: 100px;
+    margin-bottom:100px ;
+    margin-left: 185px;
+    margin-right: 429px;
+    width: 318px;
+    height: 420px;
+    flex-shrink: 0;
+    
+ }
+ .scic{
+    color: #E55473;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+ }
+
+ .hot-pragraph{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+width: 594px;
+
+ }
+ 
+ 
+ /* instagram stard */
+ 
+  .insta{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.insta-down{
+    
+              margin-top: 24px;
+              margin-bottom: 1598px;
+              margin-left:663 ;
+              margin-right: 663;
+              color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+ 
+
+                
+
+}
+/* skill related style */
+.skil-container{
+    display: flex;
+    padding: 35px;
+    margin-top:3317px ;
+    margin-bottom: 1154px;
+    margin-right:1338px ;
+    margin-left: 240px;
+    width: 342px;
+    max-width: 1140px;
+    margin: 0 auto;
+   margin-inline-start: 6px;
+
+
+}
+    
+  
+     
+    
+ 
